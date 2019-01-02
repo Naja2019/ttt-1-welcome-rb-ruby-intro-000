@@ -1,1 +1,1 @@
-puts "Welcom Tic tac Toe!"
+print "Welcom Tic tac Toe!"
